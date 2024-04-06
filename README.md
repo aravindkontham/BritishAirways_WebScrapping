@@ -12,6 +12,14 @@ link: https://www.airlinequality.com/airline-reviews/british-airways
 ### DashBoard
 ![BA_Visualisation](https://github.com/aravindkontham/BritishAirways_WebScrapping/assets/92075632/5c5699f1-4076-441d-9112-ece1d720460e)
 
+### CountryWise Travelling analysis
+![Screenshot 2024-04-06 111726](https://github.com/aravindkontham/BritishAirways_WebScrapping/assets/92075632/66269295-ac30-443c-8f69-8232da3ada4f)
+
+### Most Travelled Aircrafts
+![Screenshot 2024-04-06 111925](https://github.com/aravindkontham/BritishAirways_WebScrapping/assets/92075632/a346643f-98c4-4183-af77-c8d69107a989)
+
+
+
 ## Model Evaluation Summary
 ### Overview
 - This section provides a summary of the evaluation of our `logistic regression` and `RandomForestClassifier` model's performance.
