@@ -1,6 +1,35 @@
-# BritishAirways_WebScrapping
+# BritishAirways_Data_Science_Job_Stimulation
 ### Scrapping the data from the website and finding insights from the data using pandas
 
 ```
-### link: https://www.airlinequality.com/airline-reviews/british-airways
+Task 1: Web scraping to gain company insights
+Task 2: Predicting customer buying behaviour
+```
+
+```
+link: https://www.airlinequality.com/airline-reviews/british-airways
+```
+## Model Evaluation Summary
+### Overview
+- This section provides a summary of the evaluation of our `logistic regression` and `RandomForestClassifier` model's performance.
+
+## `Evaluation Metrics`
+```
+- Accuracy: The accuracy of the model is 84.84%.
+- Precision:
+    - For class 0 (negative class): 86%
+    - For class 1 (positive class): 52%
+- Recall:
+    - For class 0: 98%
+    - For class 1: 14%
+- F1-score:
+    - Weighted average for class 0: 81%
+    - Weighted average for class 1: 23%
+```
+## `Conclusions`
+```
+- The model performs well in identifying instances of class 0 (negative class) with high precision and recall.
+- However, it struggles to correctly identify instances of class 1 (positive class), as indicated by the low recall for class 1.
+- There is a trade-off between precision and recall, particularly for class 1.
+- Further investigation into improving the model's performance on identifying positive instances may be necessary.
 ```
