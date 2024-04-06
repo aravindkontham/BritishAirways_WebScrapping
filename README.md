@@ -9,6 +9,9 @@ Task 2: Predicting customer buying behaviour
 ```
 link: https://www.airlinequality.com/airline-reviews/british-airways
 ```
+### DashBoard
+![BA_Visualisation](https://github.com/aravindkontham/BritishAirways_WebScrapping/assets/92075632/5c5699f1-4076-441d-9112-ece1d720460e)
+
 ## Model Evaluation Summary
 ### Overview
 - This section provides a summary of the evaluation of our `logistic regression` and `RandomForestClassifier` model's performance.
@@ -33,3 +36,5 @@ link: https://www.airlinequality.com/airline-reviews/british-airways
 - There is a trade-off between precision and recall, particularly for class 1.
 - Further investigation into improving the model's performance on identifying positive instances may be necessary.
 ```
+### Certificate
+![British_AirWays_Certified](https://github.com/aravindkontham/BritishAirways_WebScrapping/assets/92075632/51e55c0c-855d-45e9-833d-ac209609f7e4)
